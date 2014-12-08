@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">https://standardebooks.org/ebooks/h-g-wells/the-time-machine</dc:identifier>
+		<dc:date>2014-05-25T00:00:00Z</dc:date>
+		<meta property="dcterms:modified">2015-02-04T22:23:56Z</meta>
+		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
+		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
+		<link href="epub/onix.xml" rel="onix-record"/>
+		<dc:title id="title">The Time Machine</dc:title>
+		<meta property="file-as" refines="#title">Time Machine, The</meta>
+		<dc:subject id="subject-1">Time travel--Fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/94210268</meta>
+		<meta property="se:subject">Science Fiction</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A mysterious inventor travels to a land far off in time.</dc:description>
+		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;The Time Machine&lt;/i&gt; is the novel that gave us the concept of&amp;mdash;and even the word for&amp;mdash;a &amp;ldquo;time machine.&amp;rdquo;  While it&amp;rsquo;s not Wells&amp;rsquo; first story involving time travel, it &lt;em&gt;is&lt;/em&gt; the one that most fully fleshes out the concept of a device that can send a person backwards and forwards in time with complete precision.  Time machines have since become a staple of the science fiction and fantasy genres, making &lt;i&gt;The Time Machine&lt;/i&gt; one of the most deeply influential science fiction novels of the era.&lt;/p&gt;
+		</meta>
+		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>http://www.gutenberg.org/ebooks/35</dc:source>
+		<meta property="se:word-count">32577</meta>
+		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/The_Time_Machine</meta>
+		<dc:creator id="author">H. G. Wells</dc:creator>
+		<meta property="file-as" refines="#author">Wells, H. G.</meta>
+		<meta property="se:name.person.full-name" refines="#author">Herbert George Wells</meta>
+		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._G._Wells</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="artist">Paul Cézanne</dc:contributor>
+		<meta property="file-as" refines="#artist">Cézanne, Paul</meta>
+		<meta property="se:url.wikipedia" refines="#artist">http://en.wikipedia.org/wiki/Paul_C%C3%A9zanne</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-1">http://http://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">typ</meta>
+	</metadata>
+	<manifest>
+		<item href="onix.xml" id="onix.xml" media-type="application/xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-3.xhtml" id="chapter-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-4.xhtml" id="chapter-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-5.xhtml" id="chapter-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-6.xhtml" id="chapter-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-7.xhtml" id="chapter-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-8.xhtml" id="chapter-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-9.xhtml" id="chapter-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-10.xhtml" id="chapter-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-11.xhtml" id="chapter-11.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-12.xhtml" id="chapter-12.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/epilogue.xhtml" id="epilogue.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+	</manifest>
+	<spine>
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="chapter-1.xhtml"/>
+		<itemref idref="chapter-2.xhtml"/>
+		<itemref idref="chapter-3.xhtml"/>
+		<itemref idref="chapter-4.xhtml"/>
+		<itemref idref="chapter-5.xhtml"/>
+		<itemref idref="chapter-6.xhtml"/>
+		<itemref idref="chapter-7.xhtml"/>
+		<itemref idref="chapter-8.xhtml"/>
+		<itemref idref="chapter-9.xhtml"/>
+		<itemref idref="chapter-10.xhtml"/>
+		<itemref idref="chapter-11.xhtml"/>
+		<itemref idref="chapter-12.xhtml"/>
+		<itemref idref="epilogue.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="unlicense.xhtml"/>
+	</spine>
+</package>
