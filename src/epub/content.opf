@@ -36,11 +36,11 @@
 		<dc:creator id="author">H. G. Wells</dc:creator>
 		<meta property="file-as" refines="#author">Wells, H. G.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Herbert George Wells</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._G._Wells</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._G._Wells</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Paul Cézanne</dc:contributor>
 		<meta property="file-as" refines="#artist">Cézanne, Paul</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Online Distributed Proofreading Team, The</meta>
