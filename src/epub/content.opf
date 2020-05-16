@@ -35,7 +35,7 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A mysterious inventor travels to a land far off in time.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Time Machine&lt;/i&gt; is the novel that gave us the concept of—and even the word for—a “time machine.” While it’s not Wells’ first story involving time travel, it &lt;em&gt;is&lt;/em&gt; the one that most fully fleshes out the concept of a device that can send a person backwards and forwards in time with complete precision. Time machines have since become a staple of the science fiction and fantasy genres, making &lt;i&gt;The Time Machine&lt;/i&gt; one of the most deeply influential science fiction novels of the era.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Time Machine&lt;/i&gt; is the novel that gave us the concept of—and even the word for—a “time machine.” While it’s not &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;Wells’&lt;/a&gt; first story involving time travel, it &lt;em&gt;is&lt;/em&gt; the one that most fully fleshes out the concept of a device that can send a person backwards and forwards in time with complete precision. Time machines have since become a staple of the science fiction and fantasy genres, making &lt;i&gt;The Time Machine&lt;/i&gt; one of the most deeply influential science fiction novels of the era.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/35</dc:source>
