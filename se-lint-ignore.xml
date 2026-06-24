@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-3.xhtml">
+		<ignore code="t-003">
+			<line>24</line>
+			<reason>Dialogue continues in next chapter.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-4.xhtml">
+		<ignore code="t-003">
+			<line>42</line>
+			<reason>Dialogue continues in next chapter.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-5.xhtml">
+		<ignore code="t-003">
+			<line>51</line>
+			<reason>Dialogue continues in next chapter.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-6.xhtml">
+		<ignore code="t-003">
+			<line>23</line>
+			<reason>Dialogue continues in next chapter.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-7.xhtml">
+		<ignore code="t-003">
+			<line>26</line>
+			<reason>Dialogue continues in next chapter.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-8.xhtml">
+		<ignore code="t-003">
+			<line>24</line>
+			<reason>Dialogue continues in next chapter.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-9.xhtml">
+		<ignore code="t-003">
+			<line>27</line>
+			<reason>Dialogue continues in next chapter.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-10.xhtml">
+		<ignore code="t-003">
+			<line>24</line>
+			<reason>Dialogue continues in next chapter.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-11.xhtml">
+		<ignore code="t-003">
+			<line>22</line>
+			<reason>Dialogue continues in next chapter.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
